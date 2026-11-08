@@ -1,0 +1,13 @@
+/* Graph view: dark warm gradient background, soft thin links, bright highlight on hover */
+.workspace-leaf-content[data-type="graph"] .view-content,
+.workspace-leaf-content[data-type="localgraph"] .view-content {
+  background: radial-gradient(ellipse at 50% 45%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.55) 100%), radial-gradient(ellipse at 50% 42%, #221a14 0%, #120f0d 55%, #070606 100%) !important;
+}
+.graph-view.color-line { color: rgba(190, 180, 165, 0.34); }
+.graph-view.color-line-highlight { color: rgba(255, 236, 200, 0.85); }
+.graph-view.color-fill { color: #8aa4c8; }
+.graph-view.color-fill-focused { color: #ffffff; }
+.graph-view.color-fill-highlight { color: #ffd76a; }
+.graph-view.color-circle { color: #ffffff; }
+.graph-view.color-text { color: rgba(235, 228, 215, 0.9); }
+.graph-view.color-arrow { color: rgba(190, 180, 165, 0.3); }

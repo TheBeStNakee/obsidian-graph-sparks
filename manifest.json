@@ -1,0 +1,10 @@
+{
+  "id": "graph-sparks",
+  "name": "Graph Sparks",
+  "version": "1.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Space-style graph view: glowing nodes, coloured links, tiny sparks travelling between notes, stars, nebulae and rare sky events.",
+  "author": "TheBeStNakee",
+  "isDesktopOnly": false,
+  "authorUrl": "https://github.com/TheBeStNakee"
+}
